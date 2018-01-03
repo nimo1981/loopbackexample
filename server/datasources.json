@@ -1,0 +1,15 @@
+{
+  "sqlserver": {
+    "host": "loopbackdb.cltezbncorvm.eu-west-1.rds.amazonaws.com",
+    "port": 1433,
+    "url": "",
+    "database": "loopbackdb",
+    "password": "loopback123",
+    "name": "sqlserver",
+    "user": "loopback",
+    "connector": "mssql"
+  },
+  "transient": {
+    "connector": "transient"
+  }
+}
